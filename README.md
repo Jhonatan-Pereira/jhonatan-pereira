@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rondoniah" target="blank"><img src="https://img.shields.io/twitter/follow/rondoniah?logo=twitter&style=for-the-badge" alt="rondoniah" /></a> </p>
 
-- 🔭 I’m currently working on **CG Contadores**
+- 🔭 I’m currently working on **CWI Software**
 
 - 🌱 I’m currently learning **Laravel, NestJS, Angular, NextJs, Flutter, Microservices, Rabbitmq...**
 
