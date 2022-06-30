@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **CWI Software**
 
-- 🌱 I’m currently learning **Laravel, NestJS, Angular, NextJs, Flutter, Microservices, Rabbitmq...**
+- 🌱 I’m currently learning **Golang, Flutter, Microservices, Oauth2...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jhonatan-Pereira?tab=repositories](https://github.com/Jhonatan-Pereira?tab=repositories)
 
-- 💬 Ask me about **Angular, Laravel, NestJS, NextJs**
+- 💬 Ask me about **Angular, Laravel, NestJS, NextJs, Golang, Flutter**
 
 - 📫 How to reach me **jhonatanfrade.pereira@gmail.com**
 
