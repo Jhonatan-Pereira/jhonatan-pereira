@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CWI Software**
 
-- 🌱 I’m currently learning **Typescript, NextJS, Flutter, K8s, Clean Architecture, MQTT, Microservices...**
+- 🌱 I’m currently learning **Typescript, Node, Flutter, NextJS, Clean Architecture, DDD, Microservices, Kafka, K8s...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jhonatan-Pereira?tab=repositories](https://github.com/Jhonatan-Pereira?tab=repositories)
 
