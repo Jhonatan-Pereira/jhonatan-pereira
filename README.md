@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rondoniah" target="blank"><img src="https://img.shields.io/twitter/follow/rondoniah?logo=twitter&style=for-the-badge" alt="rondoniah" /></a> </p>
 
-- 🔭 I’m currently working on **CWI Software**
+- 🔭 I’m currently working on **CG Contadores**
 
-- 🌱 I’m currently learning **Typescript, Node, Flutter, NextJS, Clean Architecture, DDD, Microservices, Kafka, K8s...**
+- 🌱 I’m currently learning **Domain Driven Design, Clean Architecture, Node, Typescript, Flutter, NextJS, NestJS, Python, FastAPI, Golang...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jhonatan-Pereira?tab=repositories](https://github.com/Jhonatan-Pereira?tab=repositories)
 
