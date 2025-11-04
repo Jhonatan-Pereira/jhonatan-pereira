@@ -9,7 +9,7 @@ Tenho vivência com diversas stacks, incluindo:
 
 - Frontend: Angular, React, Next.js, Flutter.
 
-- Banco de Dados: PostgreSQL, MySQL
+- Banco de Dados: PostgreSQL, MySQL.
 
 - Infraestrutura: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, AWS.
 
@@ -21,15 +21,15 @@ Sou apaixonado por código limpo, boas práticas, automação e aprendizado cont
 
 🛠️ O que gosto de trabalhar
 
-- Arquiteturas escaláveis e bem estruturadas
+- Arquiteturas escaláveis e bem estruturadas.
 
-- Integração de sistemas e automação de pipelines
+- Integração de sistemas e automação de pipelines.
 
-- Clean Architecture, DDD e SOLID
+- Clean Architecture, DDD e SOLID.
 
-- Cloud (AWS), containers e CI/CD (Github Actions)
+- Cloud (AWS), containers e CI/CD (Github Actions).
 
-- Desenvolvimento backend e frontend moderno
+- Desenvolvimento backend e frontend moderno.
 
 📫 Onde me encontrar
 
