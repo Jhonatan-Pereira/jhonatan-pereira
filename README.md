@@ -1,7 +1,7 @@
 🧑‍💻 Sobre mim
 
 Sou desenvolvedor fullstack com experiência desde 2017 na criação de soluções web e mobile.
-Ao longo da minha carreira, atuei no desenvolvimento de APIs, microsserviços e aplicações completas, utilizando diferentes linguagens e frameworks — sempre aplicando arquitetura limpa (Clean Architecture), DDD (Domain-Driven Design) e boas práticas de engenharia de software.
+Ao longo da minha carreira, atuei no desenvolvimento de APIs, microsserviços e aplicações completas, utilizando diferentes linguagens e frameworks — hoje gosto de aplicar arquitetura limpa (Clean Architecture), DDD (Domain-Driven Design) e boas práticas de engenharia de software.
 
 Tenho vivência com diversas stacks, incluindo:
 
