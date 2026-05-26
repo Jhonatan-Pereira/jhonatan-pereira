@@ -1,8 +1,8 @@
 ## 🧱 Pedreiro de Software & 🤖 Piloto de IA
 
-Desenvolvedor há quase 10 anos, especialista em transformar problema complexo em solução simples — ou pelo menos em um bug mais fácil de debugar.
+Desenvolvedor há 10 anos, especialista em transformar problema complexo em solução simples — ou pelo menos em um bug mais fácil de debugar.
 
-Comecei minha jornada com PHP, Java e Golang, e nos últimos anos venho atuando principalmente com JavaScript e TypeScript no backend.
+Comecei minha jornada com PHP, Java, Python e Golang, e nos últimos anos venho atuando principalmente com JavaScript e TypeScript no backend.
 
 Gosto de boas práticas de engenharia de software como Clean Architecture, DDD, SOLID e tudo que ajude a construir sistemas mais claros, testáveis e sustentáveis.
 
