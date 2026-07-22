@@ -15,3 +15,5 @@ Gosto muito do que faço. Não me vejo fazendo outra coisa na vida.
 💼 [LinkedIn](https://www.linkedin.com/in/jhonatan-pereira-21abb6123/)
 
 ✉️ Email: jhonatanfrade.pereira@gmail.com
+
+⚽[Bolão dos amigos](https://bolao.devfrade.cloud/) - projeto pessoal que desenvolvi com os amigos do futebol.
